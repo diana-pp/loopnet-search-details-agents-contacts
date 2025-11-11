@@ -1,0 +1,6 @@
+{
+  "max_items": 100,
+  "concurrency": 5,
+  "retries": 3,
+  "proxy": "http://yourproxy.com"
+}
