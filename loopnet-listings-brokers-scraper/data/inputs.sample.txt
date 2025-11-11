@@ -1,0 +1,4 @@
+# Provide your input parameters here for scraping, such as keywords, property types, and locations.
+# Example:
+# - Property type: "Industrial"
+# - Location: "Camden, NJ"
