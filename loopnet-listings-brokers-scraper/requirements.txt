@@ -1,0 +1,4 @@
+requests==2.25.1
+
+loopnet-listings-brokers-scraper/.keep
+text# Keep the directory for potential future assets or files
